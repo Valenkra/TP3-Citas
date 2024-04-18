@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+
 import './App.css';
 import Titulo from './components/Titulo/Titulo';
 import CrearCita from './components/CrearCita/CrearCita';
